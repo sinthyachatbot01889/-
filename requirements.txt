@@ -1,0 +1,4 @@
+telebot
+replit
+requests
+flask
